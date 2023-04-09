@@ -1,0 +1,4 @@
+1,Veg Pizza,120,15
+2,Butter Pizza,110,14
+3,Panner Pizza,140,16
+4,NonVeg Pizza,220,18
